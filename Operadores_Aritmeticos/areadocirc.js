@@ -1,4 +1,4 @@
-let raio = 10;
+let raio = 20;
 
 result1 = 3.14 * raio * raio 
 
