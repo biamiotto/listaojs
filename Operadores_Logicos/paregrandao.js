@@ -1,4 +1,4 @@
-let num1 = 20;
+let num1 = 40;
 
 if (num1 % 2 == 0 && num1 > 10)
 {console.log(`O número é par e maior que 10! 😲`)}
