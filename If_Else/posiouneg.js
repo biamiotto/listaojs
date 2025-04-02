@@ -1,4 +1,4 @@
-let num1 = 50;
+let num1 = 70;
 
 if (num1 >0)
 {console.log(`Número positivo!`)}
