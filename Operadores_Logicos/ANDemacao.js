@@ -1,4 +1,4 @@
-let valorRoupa = 150;
+let valorRoupa = 155;
 let dinheiro  = 300;
 let desejo = true;
 
