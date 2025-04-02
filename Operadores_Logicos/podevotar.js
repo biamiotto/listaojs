@@ -1,4 +1,4 @@
-let idade = 18;
+let idade = 19;
 
 if (idade >= 16 && idade <= 70)
 {console.log(`Pode votar! 🙃`)}
