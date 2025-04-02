@@ -1,4 +1,4 @@
-let num1 = 500;
+let num1 = 550;
 let num2 = 400;
 
 if (num1 > num2)
