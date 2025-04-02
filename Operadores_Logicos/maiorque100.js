@@ -1,6 +1,6 @@
 let num1 = 40;
 let num2 = 80;
-let num3 = 115;
+let num3 = 110;
 
 if (num1 >100)
 {console.log(`Há um número (ou mais) maior que 100! 😮`)}
