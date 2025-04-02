@@ -1,4 +1,4 @@
-let estacao = 4;
+let estacao = 3;
 
 switch (estacao) {
 case 1:
