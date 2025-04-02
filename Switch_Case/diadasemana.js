@@ -1,4 +1,4 @@
-let semana = 6;
+let semana = 2;
 
 switch (semana) {
 case 1:
