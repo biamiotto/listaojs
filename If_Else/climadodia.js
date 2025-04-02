@@ -1,4 +1,4 @@
-let temperatura = 26;
+let temperatura = 25;
 
 if (temperatura <15)
 {console.log(`Está frio! 🥶`)}
