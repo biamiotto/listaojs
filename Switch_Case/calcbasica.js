@@ -1,5 +1,5 @@
 let num1 = 2;
-let num2 = 50;
+let num2 = 60;
 let opr = `+`
 
 switch (opr) {
