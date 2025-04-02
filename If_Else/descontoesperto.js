@@ -1,4 +1,4 @@
-let salario = 4500;
+let salario = 5500;
 
 if (salario > 2000)
 desconto = salario * 0.10
