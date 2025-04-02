@@ -1,4 +1,4 @@
-let num1 = 50;
+let num1 = 60;
 let num2 = 20;
 let num3 = 40;
 
