@@ -1,4 +1,4 @@
-let idade = 60;
+let idade = 18;
 
 if (idade >= 0 && idade <= 12)
 {console.log(`Criança 👶`)}
